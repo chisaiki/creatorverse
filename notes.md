@@ -1,0 +1,1 @@
+- If you see an error that BrowserRouter does not exist, it usually means that the react-router-dom package is not installed in your project.
