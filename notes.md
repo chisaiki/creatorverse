@@ -1,1 +1,3 @@
 - If you see an error that BrowserRouter does not exist, it usually means that the react-router-dom package is not installed in your project.
+
+- App.jsx is your main layout component and will always be rendered, no matter what route you are on. The content inside <AppRoutes /> (or your routes component) will change based on the current URL, but everything else in App.jsx (like your header and navigation) will remain visible across all pages.

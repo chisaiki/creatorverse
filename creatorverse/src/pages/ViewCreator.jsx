@@ -1,1 +1,0 @@
- {/*page to allow the user to add a view singular content creator*/}
